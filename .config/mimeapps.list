@@ -1,0 +1,7 @@
+[Default Applications]
+text/html=firefox.desktop
+inode/directory=nautilus.desktop
+application/x-gnome-saved-search=nautilus.desktop
+
+[Added Associations]
+text/html=firefox.desktop;
